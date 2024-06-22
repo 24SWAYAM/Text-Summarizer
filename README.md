@@ -23,7 +23,7 @@ https://github.com/24SWAYAM/Text-Summarizer
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n summary python=3.8 -y
+conda create -n summary python=3.12.4 -y
 ```
 
 ```bash
